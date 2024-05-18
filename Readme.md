@@ -14,7 +14,7 @@ then go on the directory.
    cd .\problem-sloving-for-STN\
 ```
 
-- After reaching on the directory. run node index.js to start the server. Make sure you have already install node on your PC
+- After reaching on the directory. run node index.js on your terminal to start the server. Make sure you have already install node on your PC
 
 ```npm
 node index.js
